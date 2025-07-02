@@ -1,2 +1,2 @@
 ## ✨ Save Note App
-### ComposeXLibrary is used 
+### ComposeXLibrary is used in it
