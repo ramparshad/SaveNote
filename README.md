@@ -5,21 +5,7 @@ https://github.com/ramparshad/ComposeXLibrary
 ```
 
 
-<table>
-<tr>
-<td>
+![Platform]([https://img.shields.io/badge/platform-Android-green](https://i.ytimg.com/vi/9gd5dtMJTKA/maxresdefault.jpg))
+![Backend]([https://img.shields.io/badge/backend-Flask-blue](https://i.ytimg.com/vi/9gd5dtMJTKA/maxresdefault.jpg))
+![License]([https://img.shields.io/badge/license-MIT-purple](https://i.ytimg.com/vi/9gd5dtMJTKA/maxresdefault.jpg))
 
-### 📱 Clean UI Design
-
-- Built using Jetpack Compose  
-- Responsive and adaptive layout  
-- Supports dark and light mode  
-
-</td>
-<td>
-
-<img src="[https://via.placeholder.com/300x600.png?text=UI+Preview](https://github.com/user-attachments/assets/b2485d14-cd14-445c-87f6-f2a0a3c1fdcd)" width="250"/>
-
-</td>
-</tr>
-</table>
